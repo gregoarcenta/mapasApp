@@ -1,0 +1,12 @@
+.pointer {
+  cursor: pointer;
+}
+
+p {
+  font-size: 12px;
+}
+
+ul {
+  max-height: 441px;
+  overflow-y: auto;
+}
